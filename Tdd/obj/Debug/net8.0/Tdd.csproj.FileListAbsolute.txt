@@ -1,0 +1,14 @@
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\bin\Debug\net8.0\Tdd.exe
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\bin\Debug\net8.0\Tdd.deps.json
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\bin\Debug\net8.0\Tdd.runtimeconfig.json
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\bin\Debug\net8.0\Tdd.dll
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\bin\Debug\net8.0\Tdd.pdb
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\obj\Debug\net8.0\Tdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\obj\Debug\net8.0\Tdd.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\obj\Debug\net8.0\Tdd.AssemblyInfo.cs
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\obj\Debug\net8.0\Tdd.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\obj\Debug\net8.0\Tdd.dll
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\obj\Debug\net8.0\refint\Tdd.dll
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\obj\Debug\net8.0\Tdd.pdb
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\obj\Debug\net8.0\Tdd.genruntimeconfig.cache
+C:\Users\Bruno\Documents\dio-csharp-unittest\Tdd\obj\Debug\net8.0\ref\Tdd.dll

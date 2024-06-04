@@ -1,0 +1,5 @@
+C:\Users\Bruno\Documents\dio-csharp-unittest\TesteTdd\obj\Debug\net8.0\TesteTdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\dio-csharp-unittest\TesteTdd\obj\Debug\net8.0\TesteTdd.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\dio-csharp-unittest\TesteTdd\obj\Debug\net8.0\TesteTdd.AssemblyInfo.cs
+C:\Users\Bruno\Documents\dio-csharp-unittest\TesteTdd\obj\Debug\net8.0\TesteTdd.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\dio-csharp-unittest\TesteTdd\obj\Debug\net8.0\TesteTdd.csproj.AssemblyReference.cache
